@@ -1,0 +1,10 @@
+# Define the goal
+uint32 mission
+---
+# Define the result
+bool mission_cleared
+
+---
+#Define a feedback message
+float32 feedback
+
